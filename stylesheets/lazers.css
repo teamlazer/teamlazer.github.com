@@ -1,0 +1,49 @@
+/******************************************************
+ *  LAZERS!!                 *
+\*****************************************************/
+
+body {
+  background: #FFF;
+  text-align: center;
+  margin: 0px;
+  font-family: Georgia, Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+}
+
+#container {
+  margin: 0px auto;
+  width: 800px;
+  text-align: left;
+}
+
+#main {
+  width: 800px;
+}
+
+#footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 12px;
+}
+
+#nav {
+  
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+img {
+  border:none;
+}
+
+a:link, a:visited {
+  color:#D32637;
+  text-decoration: none;
+}
+a:hover {
+  color:#81153B;
+  text-decoration:underline;
+}

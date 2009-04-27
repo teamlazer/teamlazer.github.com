@@ -1,3 +1,9 @@
+---
+layout: free
+title: Free!
+---
+h2. Team Lazer: FREE!
+
 We recently had a thought. (Rare, I know). 
 
 There's a lot of people out there that have one or more of:

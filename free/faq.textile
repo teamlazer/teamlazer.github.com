@@ -1,0 +1,19 @@
+---
+layout: free
+title: FAQ!
+---
+
+h3. Why would you give away your services for free?
+
+h3. We like coding. Also helping. Also Open source.
+
+h3. How do I get you to work for free?
+
+h3. What if I want to pay for work?
+
+h3. What kind of projects qualify?
+
+h3. What kind of code do you write?
+
+h3. What does 'Open-Source' mean, really?
+
