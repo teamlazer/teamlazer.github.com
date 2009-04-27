@@ -1,0 +1,23 @@
+We recently had a thought. (Rare, I know). 
+
+There's a lot of people out there that have one or more of:
+
+* A non-profit that needs a [new] website, but no money.
+* A great idea for a useful web application/site, but no resources.
+* An existing app that is failing because of poor or sloppy code, but no way to fix it.
+
+We want to help. 
+FOR FREE.
+
+For one day a month, Team Lazer (@aq and @mrb_bk) and friends will pick a project from the pool of applicants and work our asses off to build/fix/hack and get something launched. Once the project is launched we'll post the source code (cleaned of private information) on github. 
+
+h3. The Workflow
+
+# Apply.
+# Select.
+# Talk/Spec.
+# Hack.
+# Launch.
+# Open-source.
+
+Checkout the "FAQ":faq.html for more information.
