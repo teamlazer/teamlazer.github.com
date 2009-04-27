@@ -19,6 +19,7 @@ body {
 
 #main {
   width: 800px;
+  position: relative;
 }
 
 #footer {
@@ -28,9 +29,15 @@ body {
 }
 
 #nav {
-  
+  position: absolute;
+  top: 250px;
+  left: 0px;
+  width: 270px;
 }
 
+#content {
+  margin-left: 280px;
+}
 h1, h2, h3, h4 {
   font-weight: normal;
 }
@@ -46,4 +53,22 @@ a:link, a:visited {
 a:hover {
   color:#81153B;
   text-decoration:underline;
+}
+
+#nav ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+#nav ul li {
+  padding: 0px;
+  margin: 0px;
+}
+#nav ul li a {
+  display:block;
+  font-size: 22px;
+  padding: 10px 0px;
+}
+#nav ul li a:hover {
 }

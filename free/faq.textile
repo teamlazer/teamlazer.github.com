@@ -17,3 +17,6 @@ h3. What kind of code do you write?
 
 h3. What does 'Open-Source' mean, really?
 
+h3. I like this idea! I want to help out/donate my services.
+
+
