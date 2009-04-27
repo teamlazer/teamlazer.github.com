@@ -6,11 +6,17 @@ h2. Team Lazer: FREE!
 
 We recently had a thought. (Rare, I know). 
 
-There's a lot of people out there that have one or more of:
+There's a lot of people out there that have:
 
-* A non-profit that needs a [new] website, but no money.
-* A great idea for a useful web application/site, but no resources.
-* An existing app that is failing because of poor or sloppy code, but no way to fix it.
+* A non-profit that needs a [new] website
+* A great idea for a useful web application/site
+* An existing app that is failing because of poor or sloppy code
+
+And most of them don't have:
+
+* Money
+* Resources
+* Time 
 
 We want to help. 
 FOR FREE.
