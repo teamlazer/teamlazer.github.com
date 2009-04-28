@@ -3,20 +3,26 @@ layout: free
 title: FAQ!
 ---
 
-h3. Why would you give away your services for free?
+h3. _Why would you give away your services for free?_
 
 h3. We like coding. Also helping. Also Open source.
 
-h3. How do I get you to work for free?
+h3. _How do I get you to work for free?_
 
-h3. What if I want to pay for work?
+h3. Follow the instructions on the "Apply":http://wehavelazers.com/free/application.html page.
 
-h3. What kind of projects qualify?
+h3. _What if I want to pay for work?_
 
-h3. What kind of code do you write?
+h3. "Aaron Quint":http://www.quirkey.com is available for hire.  Hire him.
 
-h3. What does 'Open-Source' mean, really?
+h3. _What kind of projects qualify?_
 
-h3. I like this idea! I want to help out/donate my services.
+h3. _What kind of code do you write?_
+
+h3. _What does 'Open-Source' mean, really?_
+
+h3. It means that the work we do for you will help others too.
+
+h3. _I like this idea! I want to help out/donate my services._
 
 
